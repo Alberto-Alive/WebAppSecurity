@@ -3,3 +3,9 @@
 	url = https://github.com/webpwnized/mutillidae
 [submodule "./SubMod"]
 	url = ps://github.com/webpwnized/mutillidae
+[submodule "mutillidae"]
+	path = mutillidae
+	url = https://github.com/webpwnized/mutillidae.git
+[submodule "MySpace"]
+	path = MySpace
+	url = https://github.com/webpwnized/mutillidae.git
