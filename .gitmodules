@@ -1,3 +1,5 @@
 [submodule "SubMod"]
 	path = SubMod
 	url = https://github.com/webpwnized/mutillidae
+[submodule "./SubMod"]
+	url = https://github.com/webpwnized/mutillidae
